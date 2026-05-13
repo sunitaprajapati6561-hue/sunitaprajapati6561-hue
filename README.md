@@ -47,7 +47,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Global-Superstore-Analysis)
+🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Global-Superstore-Sales-Analysis)
 
 ---
 
@@ -61,7 +61,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Books-Sales-Analysis)
+🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Books-Sales-Analysis-)
 
 ---
 
@@ -75,7 +75,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Credit-Card-Analysis)
+🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Credit-Card-Dashboard)
 
 ---
 
@@ -89,7 +89,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Healthcare-Data-Analysis)
+🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Healthcare-Analysis-)
 
 ---
 
@@ -116,7 +116,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-prajapati-0ba9302ba/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunitaprajapati6561@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sunitaprajapati6561@gmail.com)
 
 ---
 
