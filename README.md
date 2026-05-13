@@ -26,7 +26,7 @@
 > **End-to-End** | Python → MySQL → Power BI
 
 - Analyzed customer purchasing patterns across demographics & segments
-- 15+ SQL queries using window functions, CTEs & JOINs
+- 15+ SQL queries using window functions
 - Interactive Power BI dashboard with slicers & KPIs
 
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
