@@ -107,6 +107,19 @@
 
 ---
 
+### 🏦 7. Bank Customer Churn Analysis
+> **End-to-End** | Python → SQL → Power BI
+
+- Analyzed churn behavior of 10,000 bank customers across 3 countries
+- 17 advanced SQL queries identifying high-risk segments
+- 4-page interactive Power BI dashboard with DAX measures
+
+<!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
+
+🔗 [View Project](https://github.com/sunitaprajapati6561-hue/customer-churn-analysis)
+
+ --- 
+ 
 ## 📈 GitHub Stats
 
 ![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunitaprajapati6561-hue&show_icons=true&theme=default&hide_border=true)
